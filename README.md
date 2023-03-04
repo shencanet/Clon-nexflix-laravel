@@ -6,10 +6,22 @@
   Projeto desenvolvido para a prática de HTML5 e CSS3 :smiley: :v:
 </p>
 
-<h3 align="center">
-  Deploy da Aplicação com Vercel:
-  <a href="https://diegolramos-netflix-clone.vercel.app/" target="_blank">ACESSE AQUI </p>
-</h3>
+
+
+<h3>
+Plugins que utilizo
+
+    PHP Namespace Resolver
+    PHP IntelliSense
+    PHP Intelephense
+    Laravel Snippets
+    laravel intellisense
+    Laravel goto view
+    Laravel Extra Intellisense
+    Laravel Extension Pack
+
+    <h3>
+
 
 
 <h4 align="center">
